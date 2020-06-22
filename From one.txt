@@ -1,3 +1,7 @@
 First line from one
 Second line from two
+<<<<<<< HEAD
 Third from one
+=======
+Forth from two
+>>>>>>> d38e4ff80114d70bf886f7906febd6919b834db9
